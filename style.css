@@ -44,7 +44,7 @@ article {
 	border-bottom: 1px solid rgb(128, 128, 128);
 }
 
-article:nth-child(even) {
+article:nth-child(odd) {
 	background-color: rgba(175, 175, 175, 0.578);
 }
 
